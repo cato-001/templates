@@ -2,7 +2,7 @@
   description = "My common project templates";
 
   inputs = {
-    nixpkgs.url = "github:NixOS/nixpkgs?ref=nixos-25.11";
+    nixpkgs.url = "nixpkgs";
 
     blueprint = {
       url = "github:numtide/blueprint";
